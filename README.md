@@ -2,8 +2,6 @@
 
 A beautiful and feature-rich To-Do List mobile application built with React Native and Expo. This app helps you stay organized and productive by managing your daily tasks efficiently.
 
-![App Screenshot](screenshot.png)
-
 ## 🚀 Features
 
 ### Core Features (Required)
@@ -25,9 +23,7 @@ A beautiful and feature-rich To-Do List mobile application built with React Nati
 - ✅ **Character Limit**: 200 character limit for tasks with counter
 - ✅ **Confirmation Dialogs**: Prevents accidental deletions
 
-## 📱 Screenshots
 
-_Add screenshot of your app here after running it_
 
 ## 🛠️ Tech Stack
 
@@ -193,11 +189,7 @@ npm run web
 - Minimal re-renders with proper key props
 - Optimized AsyncStorage operations
 
-## 📄 License
 
-This project is created for educational purposes as part of a React Native assignment.
-
-## 🤝 Contributing
 
 This is an assignment project, but suggestions and improvements are welcome!
 
